@@ -3,6 +3,8 @@
   Para começar não pode faltar o famoso Hello World!
   <br>
   Em busca de novos conhecimentos e desafios
+  <br>
+  Estudante 4° período de Analise e Desenvolvimento de Sistemas (UNIFAA)
 
 <!--
 **arturthomas/arturthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
