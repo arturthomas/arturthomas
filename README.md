@@ -5,7 +5,8 @@
   Em busca de novos conhecimentos e desafios
   <br>
   Estudante 4° período de Analise e Desenvolvimento de Sistemas (UNIFAA)
-  ![GitHub stats](github-readme-stats.vercel.app/api?username=arturthomas&count_private=true)
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arturthomas&count_private=true)
   
 
 <!--
