@@ -2,9 +2,7 @@
   
   My name is Artur Thomas,<br> I am a systems analysis and development student (UNIFAA-Valença, RJ).<br>
   I'm looking for new knowledge, achievements and challenges
-  
-
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arturthomas&count_private=true)
+ 
   
   <div>
   <a href="https://www.instagram.com/artu_thomas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
